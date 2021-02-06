@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<meta charset="UTF-8">
+	    <title>Топ лучших аниме от wraing</title>
+		<link href= "anime.css" rel= "stylesheet" type= "text/css">
+	</head>
+	<body>
+		<header>
+			<p>
+				<a href="wraing.html">
+					<img src="wraing/Untitled-1.png" class="home" width="200px">
+				</a>
+			</p>
+			<p>
+				<a href="wraing.html">
+					<img src="wraing/Untitled-4.png" class="homet" width="200px">
+				</a>
+			</p>
+			<ul class="list">
+				<li>
+					<a href="movies.html" class="anime">
+						<p>Фильмы</p>
+					</a>	
+				</li>
+				<li>		
+					<a href="games.html" class="movies">
+						<p>Игры</p>
+					</a>
+				</li>	
+			</ul>
+			<hr>
+		</header>
+		
+		<main>
+			<h1><em class="number">9</em> лучших аниме</h1>
+			<div>
+				<ol class="sp">
+					<div>
+						<li class="one"><img src="anime/8v9cn668fcc31.jpg" class="w">Тетрадь Смерти</li>
+						<p class="textone">Год: 2006 <br>Жанр: Сёнэн Детектив Драма Триллер Альтернативная реальность<br> Полицейские Психология Сверхъестественное</p>
+					</div>	
+					<div>
+						<li class="two" ><img src="anime/777240_900.jpg" class="h">Город в котором меня нет</li>
+						<p class="texttwo">Год: 2016 <br>Жанр: Сэйнэн, Драма, Мистика, Приключения, Психология <br>Серии: 12</p>
+					</div>
+					<div>	
+						<li class="three" ><img src="anime/99be5f68fe-2_1390x600.jpg" class="u">Невероятные приключения ДжоДжо</li>
+						<p class="textthree">Год: 2012<br>Жанр: Сёнэн, Приключения, Вампиры, Экшен, Суперспособности,<br> Сверхъестественное<br>Серии: 26 (первый сезон)</p>
+					</div>	
+					<br>
+					<div>	
+						<li class="four" ><img src="anime/80-1.jpg" class="t">Нет игры - нет жизни</li>
+						<p class="textfour">Год: 2014<br>Жанр: Сэйнэн, Этти, Комедия, Приключения, Фэнтези, Параллельные миры, Сверхъестественное, Игры, Исэкай<br>Серии: 12</p>
+					</div>	
+					<div>	
+						<li class="five" ><img src="anime/neverland.jpg" class="m">Обещанный Неверленд</li>
+						<p class="textfive">Год: 2019<br>Жанр: Сёнэн, Мистика, Триллер, Ужасы, Фантастика, Психология<br>Серии: 12</p>
+					</div>
+					<div>	
+						<li class="six" ><img src="anime/death_parade_by_gemmaqw-d8dglva.jpg" class="r">Парад смерти</li>
+						<p class="textsix">Год: 2015<br>Жанр: Драма, Мистика, Приключения, Триллер, Параллельные миры<br> Психология, Игры<br>Серии: 12</p>
+					</div>	
+					<br>
+					<div>	
+						<li class="sev" ><img src="anime/naruto.jpg" class="b">Наруто</li>
+						<p class="textsev">Год: 2002<br>Жанр: Сёнэн, Комедия, Убийцы, Приключения, Экшен,<br>Боевые искусства Ниндзя, Суперспособности<br>Серии: 220</p>
+					</div>
+					<div>	
+						<li class="ei" ><img src="anime/1536010885_2018-09-04_003858.jpg" class="d">Твоё имя</li>
+						<p class="textei">Год: 2016<br>Жанр: Драма, Романтика, Школьная жизнь, Сверхъестественное<br>Тип: Полнометражный фильм</p>
+					</div>
+					<div>	
+						<li class="ni" ><img src="anime/4abd8c8d5b4990a2f96400b740b46b1d37f0d274r1-576-324v2_uhq.jpg">Как и ожидал, моя школьная романтическая жизнь не удалась</li>
+						<p class="textni">Год: 2013<br>Жанр: Сэйнэн, Драма, Комедия, Романтика, Повседневность,<br> Школьная жизнь<br>Серии: 13</p>
+					
+					</div>
+				</ol>
+			</div>	
+		</main>
+
+		<footer>
+			<div>
+				<h2>Я:</h2>
+				<a href="https://www.instagram.com/sashalysak19/" class="inst"><img src="wraing/instagram.png"></a>
+				<a href="https://vk.com/sashalysak19" class="vk"><img src="wraing/76651-networking-vkontakte-service-media-vk-platforms-social.png"></a>
+				<address>sashalysak19@gmail.com</address>
+			</div>
+		</footer/>
+	</body>
+</html>
